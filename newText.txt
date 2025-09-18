@@ -1,0 +1,5 @@
+hello people ! 
+
+My first time using git commands...
+
+siyo nara!!!
